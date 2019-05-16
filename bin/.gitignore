@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 /C.class
+=======
+/A.class 
+/B.class 
+/C.class
+/.gitignore
+>>>>>>> refs/heads/master
